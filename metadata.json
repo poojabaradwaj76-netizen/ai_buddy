@@ -1,0 +1,6 @@
+{
+  "name": "AI Learning Buddy",
+  "description": "An offline, interactive AI study tutor that provides explanations, real-life analogies, quizzes, and answer reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
